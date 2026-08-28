@@ -1,7 +1,5 @@
 {
   "name": "cinetrack",
   "compatibility_date": "2026-08-28",
-  "assets": {
-    "directory": "./dist/cinetrack/browser"
-  }
+  "pages_build_output_dir": "./dist/cinetrack/browser"
 }
